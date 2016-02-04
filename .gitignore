@@ -86,3 +86,7 @@ LOCK
 LOG*
 CURRENT
 MANIFEST-*
+
+#
+examples/*
+00train/*
